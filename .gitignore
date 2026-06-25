@@ -1,5 +1,5 @@
-# 로우 데이터 — 외부 공개 금지
-raw/
+# 로우 데이터 — 샘플만 허용
+# raw/
 
 # Python
 __pycache__/
@@ -10,3 +10,4 @@ __pycache__/
 .env
 *.bat
 !raw/**/.gitkeep
+data/
