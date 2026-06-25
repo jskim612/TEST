@@ -1,0 +1,12 @@
+# 로우 데이터 — 외부 공개 금지
+raw/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 환경
+.env
+*.bat
+!raw/**/.gitkeep
